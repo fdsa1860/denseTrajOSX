@@ -1,0 +1,4 @@
+.DS_Store
+release/
+output
+.build_release/
